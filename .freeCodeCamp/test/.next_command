@@ -103,3 +103,21 @@ __vsc_prompt_cmd_original
 ./salon.sh
 ./salon.sh
 clear
+./salon.sh
+./salon.sh
+./salon.sh
+./salon.sh
+./salon.sh
+./salon.sh
+./salon.sh
+./salon.sh
+./salon.sh
+pg_dump -cC --inserts -U freecodecamp salon > salon.sql
+./salon.sh
+git remote set-url origin: https://github.com/Nuzua/Salon-Appointment-Scheduler-Project.git
+git remote set-url origin: https://github.com/Nuzua/Salon-Appointment-Scheduler-Project.git
+git remote set-url origin https://github.com/Nuzua/Salon-Appointment-Scheduler-Project.git
+git branch -M main
+git push -u origin main
+git checkout -b salon-appointment-scheduler-project
+git add .
